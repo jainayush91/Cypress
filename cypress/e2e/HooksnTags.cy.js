@@ -27,6 +27,6 @@ describe('hooks and tags',()=>{
    })
 
    it('Super advanced search',()=>{
-    cy.log('****search****')
+    cy.log('****adding a text****')
    })
 })
